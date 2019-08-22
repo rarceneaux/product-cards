@@ -1,0 +1,65 @@
+img{
+  width: 200px;
+  height: 200px;
+  margin: 1em;
+}
+
+#card-container{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+ .card{
+  box-shadow: 0 4px 8px 0 rgba(0 ,0,0,0.6);
+  transition: 0.4s;
+  width:300px;
+  background: #fff;
+  margin:20px;
+}
+
+.description{
+  text-align: center;
+}
+
+.title{
+  text-align: center;
+}
+
+.head{
+  border:solid 1px lightblue
+}
+
+.thePic{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.avail{
+color:yellow;
+width:97%;
+background-color: dimgrey;
+padding:5px;
+}
+
+
+.spec{
+  font-weight: normal;
+  margin:8px;
+}
+
+.size,.weight{
+font-weight: bold;
+margin:15px;
+}
+
+.p1{
+  font-weight: bold;
+  margin:15px;
+}
+
+.price{
+  font-weight: normal;
+  margin: 8px;
+}
