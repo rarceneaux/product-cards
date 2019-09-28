@@ -1,2 +1,15 @@
-#PRODUCT CARDS
-<img width="281" alt="Screen Shot 2019-08-22 at 11 23 05 AM" src="https://user-images.githubusercontent.com/40898992/63531951-436cf800-c4cf-11e9-94f8-930fbaaf9612.png">
+# PRODUCT CARDS
+
+## Description
+
+Use this application to see the available products for sale.
+
+## Screenshot
+![]()
+
+
+## How to Run:
+  * Clone this project
+  * Install [http-server] (https://www.npmjs.com/package/http-server) from npm
+  * At the root of this project run the following command: `hs -p 8888`
+  * In your browser navigate to `https://localhost:8888`
