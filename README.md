@@ -6,7 +6,7 @@ Use this application to see the available products for sale.
 
 ## Screenshot
 
-
+![](screenshots/ProductCards.png)
 
 ## How to Run:
   * Clone this project
