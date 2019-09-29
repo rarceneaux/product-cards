@@ -5,7 +5,7 @@
 Use this application to see the available products for sale.
 
 ## Screenshot
-![]()
+
 
 
 ## How to Run:
